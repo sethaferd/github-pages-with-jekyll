@@ -31,7 +31,8 @@ tainimakespoo
 
 **thick ones** and _watery ones_ and `normal` poops too
 
-[you can see dem tricks](https://www.linkedin.com/posts/seth-rodebeck_remotework-petsatwork-petsarefamily-activity-6922337106195357696-qpyo?utm_source=linkedin_share&utm_medium=member_desktop_web) and ![cute face too](https://media-exp1.licdn.com/dms/image/C5622AQEVije-EamsOw/feedshare-shrink_2048_1536/0/1648167592328?e=2147483647&v=beta&t=o1QVbsTVVBkOuftEEVSIcWTzynH46clIb8TnK_0P_jM)
+[you can see dem tricks](https://www.linkedin.com/posts/seth-rodebeck_remotework-petsatwork-petsarefamily-activity-6922337106195357696-qpyo?utm_source=linkedin_share&utm_medium=member_desktop_web) 
+and ![cute face too](https://images.app.goo.gl/oFmEETRwHvzv1gNH6)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
