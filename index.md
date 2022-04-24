@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Dis ma Gitz
 
-You can use the [editor on GitHub](https://github.com/sethaferd/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You aint nevuh seen no gitz like dis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+watch me commits mad shiz on its
 
 ### Markdown
 
@@ -11,19 +11,27 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# mad shiz
 
-- Bulleted
-- List
+bipbopboo
 
-1. Numbered
-2. List
+## medium shiz
 
-**Bold** and _Italic_ and `Code` text
+whoisyou
 
-[Link](url) and ![Image](src)
+### small shiz
+
+tainimakespoo
+
+- tainis
+- poo
+
+1. not just one
+2. but two
+
+**thick ones** and _watery ones_ and `normal` poops too
+
+[you can see dem tricks](https://www.linkedin.com/posts/seth-rodebeck_remotework-petsatwork-petsarefamily-activity-6922337106195357696-qpyo?utm_source=linkedin_share&utm_medium=member_desktop_web) and ![cute face too](https://media-exp1.licdn.com/dms/image/C5622AQEVije-EamsOw/feedshare-shrink_2048_1536/0/1648167592328?e=2147483647&v=beta&t=o1QVbsTVVBkOuftEEVSIcWTzynH46clIb8TnK_0P_jM)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
